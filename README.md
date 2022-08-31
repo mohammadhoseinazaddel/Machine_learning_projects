@@ -7,8 +7,16 @@ Theaiepphany  Youtube
 
 MIT youtube course
 
+##### linear algebra in machine learning
+
+https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/
+https://github.com/ws13685555932/18.065_lecture_notes
+
 ### books
 https://goalkicker.com/
+
+#### scrapy
+https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 
 #### preproccessing
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
