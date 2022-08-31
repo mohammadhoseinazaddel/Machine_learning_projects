@@ -14,4 +14,4 @@ https://docs.ultralytics.com/tutorials/train-custom-datasets/
 
 stanford
 http://cs231n.stanford.edu/slides/2017/
-https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+ && https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
