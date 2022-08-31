@@ -6,6 +6,10 @@ Theaiepphany  Youtube
 3blu1brown  Math youtube
 
 MIT youtube course
+
+### books
+https://goalkicker.com/
+
 #### preproccessing
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
 #### SVM
