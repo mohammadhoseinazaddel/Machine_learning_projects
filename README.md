@@ -6,7 +6,8 @@ Theaiepphany  Youtube
 3blu1brown  Math youtube
 
 MIT youtube course
-
+#### preproccessing
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
 #### SVM
 https://youtu.be/_PwhiWxHK8o
 
@@ -69,6 +70,9 @@ https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 ## python 
 #### magic_methods
 https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
+
+#### view package content
+https://www.dummies.com/article/technology/programming-web-design/python/how-to-view-module-content-in-python-148324/
 
 #### ASGI
 
