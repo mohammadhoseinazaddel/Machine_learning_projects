@@ -7,6 +7,9 @@ Theaiepphany  Youtube
 
 MIT youtube course
 
+#### SVM
+https://youtu.be/_PwhiWxHK8o
+
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig&ab_channel=StanfordUniversitySchoolofEngineering
 #### mathplotlib
 https://matplotlib.org/stable/gallery/
