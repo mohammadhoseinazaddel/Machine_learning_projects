@@ -41,6 +41,9 @@ https://github.com/ageron/handson-ml2
 #### libraries
 https://scikit-learn.org/stable/related_projects.html
 
+Tfidfvectroizer
+Hazm
+
 #### stanford
 http://cs231n.stanford.edu/slides/2017/
  && https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
