@@ -14,6 +14,11 @@ https://paperswithcode.com
 recursive nn(lstm) back propagtion
 https://d2l.ai/chapter_recurrent-neural-networks/bptt.html
 
+
+ar tar in lstm
+https://ys1998.github.io/blog/2018/01/merity
+read ar tar rnn.pdf
+
 bert
 https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1
 
