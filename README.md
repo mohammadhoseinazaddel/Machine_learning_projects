@@ -52,6 +52,10 @@ https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 #### magic_methods
 https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 
+#### git
+https://stackoverflow.com/questions/4024095/push-a-commit-in-two-branches-with-git
+https://stackoverflow.com/questions/1670970/how-to-cherry-pick-multiple-commits
+
 
 لیست کتاب‌ها:
    Basic:
