@@ -5,7 +5,6 @@ Theaiepphany  Youtube
 
 3blu1brown  Math youtube
 
-
 MIT youtube course
 
 https://paperswithcode.com
@@ -38,3 +37,5 @@ http://cs231n.stanford.edu/slides/2017/
 https://arxiv.org/pdf/1506.02640v1.pdf
 
 https://blog.paperspace.com/
+
+https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
