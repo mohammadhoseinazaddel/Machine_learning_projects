@@ -1,1 +1,1 @@
-using spark to train models for predicting heart disease
+## these projects use spark for prediction
