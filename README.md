@@ -7,11 +7,15 @@ Theaiepphany  Youtube
 
 MIT youtube course
 
-recursive nn(lstm) back propagtion
+https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig&ab_channel=StanfordUniversitySchoolofEngineering
+
+#### recursive nn(lstm) back propagtion
+
 https://d2l.ai/chapter_recurrent-neural-networks/bptt.html
 
 #### RNN
 ar tar in lstm
+
 https://ys1998.github.io/blog/2018/01/merity
 read ar tar rnn.pdf
 
