@@ -119,3 +119,7 @@ DL - Advanced Deep Learning with Keras by Rowel Atienza
 - https://www.tensorflow.org/learn
 - https://www.tensorflow.org/guide
 - https://www.tensorflow.org/api_docs/python/tf
+
+#### interview
+https://github.com/andrewekhalel/MLQuestions
+
