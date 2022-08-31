@@ -65,6 +65,16 @@ https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 #### magic_methods
 https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 
+#### ASGI
+
+http://klen.github.io/py-frameworks-bench/about/
+
+http://klen.github.io/py-frameworks-bench/
+
+https://calpaterson.com/async-python-is-not-faster.html
+
+https://asgi.readthedocs.io/en/latest/implementations.html
+
 #### git
 https://stackoverflow.com/questions/4024095/push-a-commit-in-two-branches-with-git
 https://stackoverflow.com/questions/1670970/how-to-cherry-pick-multiple-commits
