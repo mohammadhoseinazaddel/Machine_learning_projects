@@ -47,3 +47,41 @@ https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 ## python 
 #### magic_methods
 https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
+
+
+لیست کتاب‌ها:
+   Basic:
+ML & DL- Hands-on Machine Learning 
+    by Aurelien Geron
+
+BM - Probabilistic Deep Learning
+    by Oliver Dürr, Beate Sick and Elvis Murina
+
+RL - Reinforcement Learning An Introduction, 2nd ed.
+    by Richard S. Sutton, Andrew G Barto
+
+   Advance:
+GLM - An Introduction to Generalized Linear Models 4th ed. 
+    by Annette J. Dobson and Adrian G. Barnett
+
+BNN -Bayesian Modeling and Computation in Python
+    by Osvaldo A. Martin, Ravin Kumar and Junpeng Lao
+
+DL - Advanced Deep Learning with Keras by Rowel Atienza 
+
+لیست دوره‌های کورسرا:
+- Data Structures and Algorithms Specialization
+- Deep Learning Specialization
+- TensorFlow Developer Professional Certificate
+- Machine Learning Engineering for Production (MLOps) Specialization
+- TensorFlow 2 for Deep Learning Specialization
+- Reinforcement Learning Specialization
+- TensorFlow: Advanced Techniques Specialization
+
+مراجع مهم که زیاد باید بهشون سرزد:
+- https://blog.tensorflow.org/
+- https://scikit-learn.org/stable/user_guide.html
+- https://keras.io/examples/
+- https://www.tensorflow.org/learn
+- https://www.tensorflow.org/guide
+- https://www.tensorflow.org/api_docs/python/tf
