@@ -7,10 +7,6 @@ Theaiepphany  Youtube
 
 MIT youtube course
 
-
-https://paperswithcode.com
-
-
 recursive nn(lstm) back propagtion
 https://d2l.ai/chapter_recurrent-neural-networks/bptt.html
 
@@ -39,6 +35,9 @@ http://cs231n.stanford.edu/slides/2017/
  && https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
  
 https://arxiv.org/pdf/1506.02640v1.pdf
+
+
+https://paperswithcode.com
 
 https://blog.paperspace.com/
 
