@@ -9,6 +9,9 @@ MIT youtube course
 
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig&ab_channel=StanfordUniversitySchoolofEngineering
 
+#### NetworkX
+https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
+
 #### recursive nn(lstm) back propagtion
 
 https://d2l.ai/chapter_recurrent-neural-networks/bptt.html
