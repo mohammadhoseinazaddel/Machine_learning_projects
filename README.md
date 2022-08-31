@@ -66,6 +66,9 @@ https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 https://stackoverflow.com/questions/4024095/push-a-commit-in-two-branches-with-git
 https://stackoverflow.com/questions/1670970/how-to-cherry-pick-multiple-commits
 
+#### AWS
+https://www.youtube.com/watch?v=3hLmDS179YE
+https://www.youtube.com/watch?v=k1RI5locZE4
 
 لیست کتاب‌ها:
    Basic:
