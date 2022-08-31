@@ -1,7 +1,6 @@
 # Machine_learning_projects
 ## refrences 
 #### youtube
-#### youtube
 Theaiepphany  Youtube
 
 3blu1brown  Math youtube
