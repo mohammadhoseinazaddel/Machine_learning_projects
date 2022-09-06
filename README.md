@@ -1,4 +1,4 @@
-i am trying to share all kind of things related to machine learning and mlops in this project 
+Iam trying to share all kind of things related to machine learning and mlops in this project 
 
 # Machine_learning_projects
 ## refrences 
