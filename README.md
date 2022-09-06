@@ -17,27 +17,34 @@ Theaiepphany  Youtube
 
 MIT youtube course
 
+# Math
+
 ##### linear algebra in machine learning
 
 https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/
 https://github.com/ws13685555932/18.065_lecture_notes
 
 
-#### scrapy
-https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
-
-#### preproccessing
+## preproccessing
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
+
+## visolize
+
+#### mathplotlib
+https://matplotlib.org/stable/gallery/
+
+# classics
+
 #### SVM
 https://youtu.be/_PwhiWxHK8o
 
 https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC3Ig&ab_channel=StanfordUniversitySchoolofEngineering
-#### mathplotlib
-https://matplotlib.org/stable/gallery/
+
 
 #### NetworkX
 https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
 
+# 
 #### recursive nn(lstm) back propagtion
 
 https://d2l.ai/chapter_recurrent-neural-networks/bptt.html
@@ -152,6 +159,11 @@ DL - Advanced Deep Learning with Keras by Rowel Atienza
 - https://www.tensorflow.org/learn
 - https://www.tensorflow.org/guide
 - https://www.tensorflow.org/api_docs/python/tf
+
+
+
+#### scrapy
+https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 
 #### interview
 https://github.com/andrewekhalel/MLQuestions
