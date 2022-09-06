@@ -4,8 +4,12 @@
 
 #### you can find waht you need with surfing among them
 
+
+
 # Machine_learning_projects
 ## refrences 
+
+
 #### youtube
 Theaiepphany  Youtube
 
@@ -18,8 +22,6 @@ MIT youtube course
 https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/
 https://github.com/ws13685555932/18.065_lecture_notes
 
-### books
-https://goalkicker.com/
 
 #### scrapy
 https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
@@ -65,6 +67,10 @@ https://docs.ultralytics.com/tutorials/train-custom-datasets/
 https://github.com/ageron/handson-ml3
 https://github.com/ageron/handson-ml2
 
+
+### books
+https://goalkicker.com/
+
 #### libraries
 https://scikit-learn.org/stable/related_projects.html
 
@@ -85,7 +91,7 @@ https://blog.paperspace.com/
 https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 
 
-## python 
+# python 
 #### magic_methods
 https://github.com/Alireza-Akhavan/class.vision/blob/master/README.md
 
