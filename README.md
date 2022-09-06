@@ -1,6 +1,8 @@
-Iam trying to share all kind of things related to machine learning and mlops in this project 
-each folder contains subclasse titles and projects
-you can find waht you need with surfing among them
+###### Iam trying to share all kind of things related to machine learning and mlops in this project 
+
+###### each folder contains subclasse titles and projects
+
+###### you can find waht you need with surfing among them
 
 # Machine_learning_projects
 ## refrences 
