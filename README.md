@@ -1,4 +1,4 @@
-###### Iam trying to share all kind of things related to machine learning and mlops in this project 
+###### Iam trying to share all kind of things related to machine learning and mloops in this project 
 
 ##### each folder contains subclasse titles and projects
 
