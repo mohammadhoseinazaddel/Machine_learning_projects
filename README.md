@@ -28,7 +28,7 @@ https://github.com/ws13685555932/18.065_lecture_notes
 ## preproccessing
 https://scikit-learn.org/stable/modules/classes.html#module-sklearn.preprocessing
 
-## visolize
+## visualize
 
 #### mathplotlib
 https://matplotlib.org/stable/gallery/
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLEAYkSg4uSQ0XeM4JICgGxaFJGSeRC
 #### NetworkX
 https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
 
-# 
+# Sequences_timeSeries
 #### recursive nn(lstm) back propagtion
 
 https://d2l.ai/chapter_recurrent-neural-networks/bptt.html
@@ -55,8 +55,8 @@ ar tar in lstm
 https://ys1998.github.io/blog/2018/01/merity
 read ar tar rnn.pdf
 
-## NLP
-bert
+# NLP
+#### bert
 https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1
 
 https://thegradient.pub/prompting/
@@ -64,11 +64,15 @@ https://thegradient.pub/prompting/
 ##### pre-trained_embeddings
 https://nlpdataset.ir/farsi/pre-trained_embeddings.html
 
+# computer vision
+
 #### yolo project
 https://github.com/Karan-Malik/FaceMaskDetector
 
 #### learn custom data to yolo
 https://docs.ultralytics.com/tutorials/train-custom-datasets/
+
+
 
 #### hands on exercizes
 https://github.com/ageron/handson-ml3
