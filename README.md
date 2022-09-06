@@ -73,7 +73,7 @@ https://github.com/Karan-Malik/FaceMaskDetector
 https://docs.ultralytics.com/tutorials/train-custom-datasets/
 
 
-
+# others
 #### hands on exercizes
 https://github.com/ageron/handson-ml3
 https://github.com/ageron/handson-ml2
