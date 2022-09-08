@@ -46,5 +46,7 @@ guaidance:
 https://github.com/wurstmeister/kafka-docker
 
 example:
+
 https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05
+
 https://github.com/kadnan/Calories-Alert-Kafka
