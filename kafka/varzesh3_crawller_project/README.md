@@ -38,7 +38,11 @@ python producer_consumer_videos_midlewre.py
 ```
 now the prepared data are in **prepared_videos** kafka topic
 
-now the last part is show the data if they have mor than 2k views eith below output consule format
+now the last part is to show the data if they have mor than 2k views eith below output consule format
+
+``` bash 
+python last_consumer_get_wanted_data.py
+```
 
 'video title {title} with {category} category has {views} publish date {publish_date}'
 
