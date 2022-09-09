@@ -10,6 +10,10 @@ in this example i crawled varzesh3.ir news
 clone dockerkafka project:
 https://github.com/wurstmeister/kafka-docker
 
+```
+python3 -m venv .kafkavenv
+```
+
 ```bash
 cd {in_cloned_repo}
 ```
