@@ -1,5 +1,5 @@
 use spark as streaming service with using kafka in it
-
+it will listen on 9999 socket port and 9092 on kafka
 first you need run kafka
 
 clone dockerkafka project:
