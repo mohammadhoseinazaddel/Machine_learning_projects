@@ -30,7 +30,7 @@ def connect_kafka_producer():
 
 def fetch_raw(video_url):
     html = None
-    print('Processing..{}'.format(news_url))
+    print('Processing..{}'.format(video_url))
     try:
         r = requests.get(video_url, headers=headers)
         if r.status_code == 200:
